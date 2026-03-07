@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Yogesh Yadav</h1>
-<h3 align="center">Full Stack Developer (Laravel, React, Node.js) from India 🇮🇳</h3>
+<h3 align="center">Full Web Stack Developer (Laravel, React, Node.js) from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yogesh-yadav-8485691bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yadavyogesh0913@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/yadavyogesh13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-</p>
-
+  <a href="https://myportfolio-sable-tau.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+</p
+  
 ---
 
 ### 👨‍💻 About Me
 
 *   🎓 **MSc Computer Science** Graduate
-*   💻 Full Stack Developer specializing in **Laravel, React, and Node.js**
+*   💻 Full Stack Web Developer specializing in **Laravel, React, Node.js, MySQL**
 *   🚀 Currently building **SaaS Applications** and diving deep into **System Design**
 *   💬 Ask me about **PHP, Laravel, Node.js, React, JavaScript, MySQL**
 *   📫 Reach me at: **yadavyogesh0913@gmail.com**
@@ -33,6 +33,10 @@
 #### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -75,9 +79,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **CPS Checker** | A tool to check clicks per second with a clean UI. | `HTML`, `CSS`, `JavaScript` |
-| **Clinic Management System** | Complete management solution for clinics (Appointments, Patients, Records). | `Laravel`, `MySQL`, `Bootstrap` |
-| **Real Estate Agent Website** | Property listing website with a full admin panel for management. | `React`, `Node.js`, `MongoDB` |
+| **URL Shortener** | A simple, efficient service to shorten long URLs. | `HTML`, `CSS`, `JavaScript` |
+| **CPS Checker** | A tool to check clicks per second with a clean UI. | `Typecript`, `HTML`, `CSS`, `JavaScript` |
+| **Clinic Management System** | Complete management solution for clinics (Appointments, Patients, Records). | `React`, `Node.js`, `MongoDB` |
+| **Real Estate Agent Website** | Property listing website with a full admin panel for management. | `React`, `Laravel`, `MySQL` |
 | **URL Shortener** | A simple, efficient service to shorten long URLs. | `Laravel`, `JavaScript`, `MySQL` |
 
 ---
@@ -97,9 +102,9 @@
 
 I'm always looking to collaborate on **Full Stack Projects** and **Open Source Contributions**. If you have an idea or need a hand, feel free to reach out!
 
-*   **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Update this link -->
+*   **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yogesh-yadav-8485691bb/) <!-- Update this link -->
 *   **GitHub**: [github.com/yadavyogesh13](https://github.com/yadavyogesh13)
-*   **Portfolio**: [yourportfolio.com](https://yourportfolio.com) <!-- Update this link -->
+*   **Portfolio**: [yourportfolio.com](https://myportfolio-sable-tau.vercel.app/) <!-- Update this link -->
 
 ---
 
