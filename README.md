@@ -77,7 +77,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **URL Shortener** | A simple, efficient service to shorten long URLs. | `HTML`, `CSS`, `JavaScript` |
+| **CA Website** | A simple, efficient service to CA. | `HTML`, `CSS`, `JavaScript` |
 | **CPS Checker** | A tool to check clicks per second with a clean UI. | `Typecript`, `HTML`, `CSS`, `JavaScript` |
 | **Clinic Management System** | Complete management solution for clinics (Appointments, Patients, Records). | `React`, `Node.js`, `MongoDB` |
 | **Real Estate Agent Website** | Property listing website with a full admin panel for management. | `React`, `Laravel`, `MySQL` |
