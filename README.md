@@ -71,8 +71,8 @@
 </p>
 -->
 
----
 
+<!--
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -84,6 +84,8 @@
 | **URL Shortener** | A simple, efficient service to shorten long URLs. | `Laravel`, `JavaScript`, `MySQL` |
 
 ---
+-->
+
 
 ### 📈 Quick Stats
 
